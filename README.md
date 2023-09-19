@@ -1,7 +1,7 @@
 # RunAwayFromTheRedSquares
 
 This is a little game I've made, in pure JS.
-It aims is to show that I am comfortable with JS.
+It aims to show that I am comfortable with JS.
 
 ## Setup
 Download the project and execute the `index.html` in your navigator.
